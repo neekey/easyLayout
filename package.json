@@ -1,0 +1,15 @@
+{
+    "name": "easyLayout.js",
+    "description": "An web page layout system.",
+    "version": "0.0.1",
+    "author": "neekey <ni184775761@gmail.com>",
+    "keywords": [ "easyLayout.js" ],
+    "main": "index.js",
+    "bin": { "easyLayout": "./bin/easyLayout.js" },
+    "repository": {
+    "type": "git",
+        "url": "git@github.com:neekey/easyLayout.js.git"
+    },
+    "dependencies": {
+    }
+}
